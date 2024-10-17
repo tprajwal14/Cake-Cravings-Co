@@ -52,6 +52,6 @@ This project was created by **Prajwal Take** as part of a web development exerci
 
 ---
 ## Video Link 
-
+https://drive.google.com/file/d/1KsWQSaNWEb6Jh2nLTP6sxQzWaHiJmCHv/view?usp=sharing
 
 &copy; 2024 Sugar & Spice Cakes. All Rights Reserved.
