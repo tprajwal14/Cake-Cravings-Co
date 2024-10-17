@@ -51,5 +51,7 @@ You can view the live version of **Sugar & Spice Cakes** by following this link:
 This project was created by **Prajwal Take** as part of a web development exercise. The goal is to showcase skills in HTML, CSS, JavaScript, and responsive design using Bootstrap.
 
 ---
+## Video Link 
+
 
 &copy; 2024 Sugar & Spice Cakes. All Rights Reserved.
